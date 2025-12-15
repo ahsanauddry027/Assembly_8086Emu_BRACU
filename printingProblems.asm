@@ -1,3 +1,11 @@
+;print in this order
+
+;1
+;12
+;123
+;1234
+;12345
+
 .MODEL SMALL
  
 .STACK 100H
@@ -65,3 +73,4 @@ INT 21H
 
 MAIN ENDP
 END MAIN
+
